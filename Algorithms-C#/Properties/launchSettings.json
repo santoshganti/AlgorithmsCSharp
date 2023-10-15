@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Algorithms_C_": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7092",
+      "launchBrowser": false
+    }
+  }
+}
