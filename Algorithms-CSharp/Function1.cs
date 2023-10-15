@@ -3,7 +3,7 @@ using Microsoft.Azure.Functions.Worker;
 using Microsoft.Azure.Functions.Worker.Http;
 using Microsoft.Extensions.Logging;
 
-namespace Algorithms_C_
+namespace AlgorithmsCSharp
 {
     public class Function1
     {

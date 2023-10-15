@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms-CSharp", "Algorithms-C#\Algorithms-CSharp.csproj", "{A83F668B-EDE5-46DD-A889-7D067554A3D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms-CSharp", "Algorithms-CSharp\Algorithms-CSharp.csproj", "{A83F668B-EDE5-46DD-A889-7D067554A3D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
