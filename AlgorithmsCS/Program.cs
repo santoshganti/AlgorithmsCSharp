@@ -1,5 +1,4 @@
-﻿using AlgorithmsCS;
-using AlgorithmsCSharp.DataStructures.Arrays;
+﻿using AlgorithmsCSharp.DataStructures.Arrays;
 
 
 namespace AlgorithmsCS
